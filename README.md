@@ -1,5 +1,21 @@
-Project Title: Student GPA Data Analysis and PDF Report Generator
-Project Overview
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : Souvik Shomenath Dutta
+
+INTERN I'D : CT06DH660
+
+DOMAIN : Python Programming
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTOSH
+
+DESCRIPTION :
+
+# Project Title: AUTOMATED REPORT GENERATION
+
+# Project Overview
+
 This project provides a robust solution for loading, analyzing, and reporting student academic data, specifically focusing on Grade Point Averages (GPAs). It automates the process of extracting student records from a CSV file, computing key statistical summaries of their academic performance, and then generating a professional, well-formatted PDF report. The report includes both the summary statistics and a detailed table of all student records. By leveraging Python's csv module for data handling, statistics for analytical computations, and the fpdf library for PDF generation, this tool streamlines the often cumbersome task of academic record analysis and presentation, making it invaluable for educational institutions or individual researchers.
 
 How It Works
